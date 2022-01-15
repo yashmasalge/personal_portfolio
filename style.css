@@ -1,0 +1,49 @@
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+body {
+  background-color: #485b6f;
+}
+.navbar {
+  background-color: #04009a;
+}
+
+.nav-link,
+.nav-brand {
+  color: #c0fefc;
+  cursor: pointer;
+}
+
+.nav-link {
+  margin-right: 1em;
+}
+
+.navbar-brand {
+  margin-left: 1em;
+}
+
+.bg {
+  width: 100%;
+  height: 100%;
+}
+
+.scrolling-wrapper {
+  overflow-x: auto;
+}
