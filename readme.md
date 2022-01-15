@@ -1,1 +1,1 @@
-simple portfolio website made using Bootstrap HTML, CSS and JavsScript
+simple responsive portfolio web app made using Bootstrap HTML, CSS and JavsScript
